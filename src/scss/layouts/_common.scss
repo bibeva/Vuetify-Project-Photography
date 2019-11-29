@@ -1,9 +1,11 @@
+// application
 .v-application {
   background: $white !important;
   font: #{$base-font-size}/#{$base-line-height} $base-font-family;
   font-weight: 300;
 }
 
+// block
 .block {
   padding: 60px 0;
   border-bottom: 1px solid darken($white, 10%);
