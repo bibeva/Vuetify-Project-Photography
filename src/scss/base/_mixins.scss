@@ -1,0 +1,21 @@
+// size
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}
+
+// hide text
+@mixin hide-text {
+  overflow: hidden;
+  text-indent: 101%;
+  white-space: nowrap;
+}
+
+// placeholder
+@mixin placeholder {
+  &::-webkit-input-placeholder {@content}
+  &::-moz-placeholder {opacity: 1; @content}
+  &:-moz-placeholder {@content}
+  &:-ms-input-placeholder {@content}
+  &.placeholder {@content}
+}

@@ -1,0 +1,45 @@
+// hero block
+.heroBlock {
+  position: relative;
+
+  .v-image__image {
+    &:before {
+      content: '';
+      background: rgba(0, 0, 0, 0.3);
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 1;
+    }
+  }
+
+  .title {
+    color: $white;
+    position: relative;
+    z-index: 2;
+    font: 300 50px/1.6 $primary-font !important;
+  }
+}
+
+// gallery block
+.galleryBlock {
+  h2 {
+    font-size: 30px;
+    padding: 0 0 10px;
+    margin: 0 0 40px;
+    position: relative;
+
+    &:after {
+      content: '';
+      background: $black;
+      width: 60px;
+      height: 1px;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+}
