@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-toolbar flat>
+    <v-toolbar flat class="mainHeader">
       <v-toolbar-title>Photography</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items>

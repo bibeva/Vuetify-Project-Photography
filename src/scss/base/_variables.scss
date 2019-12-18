@@ -1,7 +1,7 @@
 $black: #000;
 $white: #fff;
 
-$base-font-sans-serif: 'Open Sans', 'Arial', sans-serif;
+$base-font-sans-serif: 'Montserrat', 'Arial', sans-serif;
 $base-font-serif: 'Times New Roman', 'Georgia', serif;
 
 $primary-font: $base-font-sans-serif;
@@ -9,8 +9,8 @@ $primary-font: $base-font-sans-serif;
 // Body
 $base-text-color: $black  !default;
 $base-background-color: $white !default;
-$base-font-size: 15px !default;
-$base-line-height: 1.6 !default;
+$base-font-size: 14px !default;
+$base-line-height: 1.8 !default;
 $base-font-family: $primary-font !default;
 
 $vertical-rhythm: ($base-line-height * 1em);

@@ -4,3 +4,13 @@ header {
     text-transform: uppercase;
   }
 }
+
+.mainHeader {
+  .v-toolbar__items {
+    .v-btn__content {
+      a {
+        color: $black;
+      }
+    }
+  }
+}
