@@ -1,6 +1,7 @@
 <template>
   <v-content>
-    <v-img src="../assets/images/img14.jpg">
+    <div class="staticHero">
+      <v-img src="../assets/images/img14.jpg">
       <v-row align="end" class="lightbox white--text pa-2 fill-height">
         <v-col>
           <v-container>
@@ -9,6 +10,7 @@
         </v-col>
       </v-row>
     </v-img>
+    </div>
     <div class="block">
       <v-container>
         <v-form ref="form" v-model="valid" lazy-validation>

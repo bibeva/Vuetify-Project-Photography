@@ -2,10 +2,6 @@ header {
   .v-toolbar__title {
     font-weight: 600;
     text-transform: uppercase;
-    
-    @media only screen and (max-width: 599px) {
-      font-size: 14px;
-    }
   }
 
   .v-toolbar__content {
