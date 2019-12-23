@@ -3,6 +3,10 @@
   background: $white !important;
   font: 300 #{$base-font-size}/#{$base-line-height} $base-font-family;
   font-weight: 300;
+
+  .container {
+    max-width: 1200px;
+  }
 }
 
 // block
@@ -27,4 +31,9 @@
       transform: translateX(-50%);
     }
   }
+}
+
+// iframe
+iframe {
+  border: 0;
 }
