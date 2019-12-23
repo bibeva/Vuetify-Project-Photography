@@ -41,15 +41,15 @@ export default {
       },
       {
         id: 2,
-        title: "Top western road trips 2",
-        subtitle: "1,000 miles of wonder 2",
+        title: "Christmas tales to read",
+        subtitle: "2,000 miles of wonder",
         description: "Sea ad habemus assueverit, omnes platonem convenire sit et, at integre pericula quo. Facete adolescens definitionem cu qui, in putant aliquid fierent ius.",
         src: require("../assets/images/img11.jpg")
       },
       {
         id: 3,
-        title: "Top western road trips 3",
-        subtitle: "1,000 miles of wonder 3",
+        title: "20 movies not to miss in 2020",
+        subtitle: "3,000 miles of wonder",
         description: "Aliquam albucius mei ei, debitis torquatos et pro, eos natum scribentur no. Putant verear constituto te qui. Adolescens persequeris vim ei. Vel nullam reprimique te.",
         src: require("../assets/images/img12.jpg")
       }
