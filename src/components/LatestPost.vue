@@ -36,7 +36,7 @@ export default {
         id: 1,
         title: "Top western road trips",
         subtitle: "1,000 miles of wonder",
-        description: "Embark on a scenic journey through the American West, with breathtaking landscapes and historic landmarks. A road trip to remember forever",
+        description: "Embark on a scenic journey through the American West, with breathtaking landscapes and historic landmarks. A road trip to remember",
         src: require("../assets/images/img10.jpg")
       },
       {
