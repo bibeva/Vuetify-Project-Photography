@@ -36,21 +36,21 @@ export default {
         id: 1,
         title: "Top western road trips",
         subtitle: "1,000 miles of wonder",
-        description: "His ubique laboramus ne. Expetenda assueverit sed ad. Id nec malis lucilius delicatissimi. Nec assum sonet suscipit ex, diam deterruisset ut usu, ad dicat fabellas aliquando eam.",
+        description: "Embark on a scenic journey through the American West, with breathtaking landscapes and historic landmarks. A road trip to remember forever",
         src: require("../assets/images/img10.jpg")
       },
       {
         id: 2,
         title: "Christmas tales to read",
         subtitle: "2,000 miles of wonder",
-        description: "Sea ad habemus assueverit, omnes platonem convenire sit et, at integre pericula quo. Facete adolescens definitionem cu qui, in putant aliquid fierent ius.",
+        description: "Spread joy and cheer this holiday season with festive decor, warm gatherings, and meaningful gifts. Make memories to cherish forever.",
         src: require("../assets/images/img11.jpg")
       },
       {
         id: 3,
         title: "20 movies not to miss in 2020",
         subtitle: "3,000 miles of wonder",
-        description: "Aliquam albucius mei ei, debitis torquatos et pro, eos natum scribentur no. Putant verear constituto te qui. Adolescens persequeris vim ei. Vel nullam reprimique te.",
+        description: "Escape reality and immerse yourself in a world of imagination through the magic of movies. Discover new stories, emotions, and adventures.",
         src: require("../assets/images/img12.jpg")
       }
     ]

@@ -9,11 +9,11 @@
         </v-card-text>
         <v-card-text
           class="pt-0"
-        >Phasellus feugiat arcu sapien, et iaculis ipsum elementum sit amet. Mauris cursus commodo interdum. Praesent ut risus eget metus luctus accumsan id ultrices nunc. Sed at orci sed massa consectetur dignissim a sit amet dui. Duis commodo vitae velit et faucibus. Morbi vehicula lacinia malesuada. Nulla placerat augue vel ipsum ultrices, cursus iaculis dui sollicitudin. Vestibulum eu ipsum vel diam elementum tempor vel ut orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</v-card-text>
+        >Photography is not just about taking pictures, it's about capturing the essence of a moment and preserving it for a lifetime. Whether you're using a professional camera or just your smartphone, the power to tell a story and evoke emotions is in your hands. So go out and capture the beauty of the world, experiment with different techniques and styles, and find your own unique perspective. In the end, it's not about having the best equipment, it's about having an eye for capturing the special moments that make life truly memorable.</v-card-text>
         <v-divider></v-divider>
         <v-card-text>
           {{ new Date().getFullYear() }} —
-          <strong>Photography Vuetify Project</strong>
+          <strong>Photography Vuetify 2.1.0 Project</strong>
         </v-card-text>
       </v-card>
     </v-footer>
